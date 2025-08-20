@@ -1,4 +1,8 @@
 # Anonymous Message Bot for Telegram
+![License](https://img.shields.io/github/license/bitamooz/TelegramAnonymousMessageBot)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![PHP](https://img.shields.io/badge/language-PHP-%23777BB4)
+
 
 این پروژه یک ربات تلگرامی برای ارسال پیام‌های ناشناس است.  
 کاربران می‌توانند پیام‌های ناشناس ارسال کنند و مدیر ربات آن‌ها را دریافت کند.
@@ -34,6 +38,11 @@ define('ADMIN_ID', 'YOUR_TELEGRAM_ID');
 ```bash
 https://api.telegram.org/botYOUR_BOT_TOKEN/setWebhook?url=YOUR_DOMAIN/index.php
 ```
+
+## 📸 Screenshot
+
+![Anonymous Bot Screenshot](./screenshot.jpg)
+
 
 ## 📌 نیازمندی‌ها
 - PHP 7.4+
